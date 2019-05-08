@@ -36,7 +36,7 @@ server_scripts {
 
 	-- Drugs
 	'JAM_Drugs/JAM_Drugs_Config.lua',
-	'JAM_Drugs/JAM_Drugs_Client.lua',
+	'JAM_Drugs/JAM_Drugs_Server.lua',
 }
 ```
 
